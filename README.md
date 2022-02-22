@@ -1,4 +1,5 @@
 # linktree clone
-based on Danny Thompson tutorial.
+based on a Danny Thompson tutorial.
 
-HTML, CSS, JavaScript
+HTML, CSS, 
+changed the colors and added more link that in his workthrough. I will incorporate parts of this my personal site.
